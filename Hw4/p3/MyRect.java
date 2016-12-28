@@ -16,6 +16,7 @@ public class MyRect extends MyFillableShape {
 	public void setWidth(int width) { mWidth = width; }
 	public void setHeight(int height) { mHeight = height; }
 	
+	@Override
 	public void draw(Graphics g) {
 		g.setColor(getColor());
 		if (isFill()) {

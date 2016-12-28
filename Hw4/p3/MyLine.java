@@ -28,15 +28,14 @@ public class MyLine extends MyShape {
 		g.drawLine(getX(), getY(), getEndX(), getEndY());
 	}
 
+	// Always can't drag
 	@Override
 	public boolean isInside(Point p) {
 		return false;
 	}
 
+	// No need to set
 	@Override
-	public void setCenter(Point p) {
-		// TODO Auto-generated method stub
-		
-	}
+	public void setCenter(Point p) { }
 
 }

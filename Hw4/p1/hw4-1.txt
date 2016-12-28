@@ -3,22 +3,22 @@
  2. True.
 
  3. Not Exactly.
-   MouseEvents handled by MouseListener, MouseMotionListener, and MouseWheelListener.
+    MouseEvents handled by MouseListener, MouseMotionListener, and MouseWheelListener.
 
  4. True.
 
  5. False.
-   Only one button will be display, which adds after will be.
+    Only one button will be display, which adds after will be.
 
  6. True.
 
  7. True.
 
  8. False.
-   Can add other method.
+    Can add other method.
 
  9. False.
-   Coordinate (0, 0) located at top left corner of the monitor.
+    Coordinate (0, 0) located at top left corner of the monitor.
 
 10. True.
 
