@@ -10,12 +10,12 @@ class Sales {
 		nSold = 0;
 	}
 
-	// Add solded item
+	// Add sold item
 	public void addSoldValue(int n) {
 		nSold += n;
 	}
 
-	// Get solded value
+	// Get sold value
 	public double getRetailValue() {
 		return nPrice * nSold;
 	}
