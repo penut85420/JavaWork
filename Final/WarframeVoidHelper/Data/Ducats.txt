@@ -1,0 +1,89 @@
+﻿野馬雙槍 PRIME 藍圖	15
+野馬雙槍 PRIME 連結器	45
+史提托雙槍 PRIME 藍圖	100
+史提托雙槍 PRIME 槍管	45
+史提托雙槍 PRIME 槍機	45
+史提托雙槍 PRIME 連結器	45
+ASH PRIME 藍圖		45
+ASH PRIME 機體 藍圖	15
+ASH PRIME 頭部神經光元 藍圖	45
+ASH PRIME 系統 藍圖	100
+布萊頓 PRIME 藍圖	25
+布萊頓 PRIME 槍管	15
+布萊頓 PRIME 槍機	45
+布萊頓 PRIME 槍托	15
+野馬 PRIME 藍圖		15
+野馬 PRIME 槍管		45
+野馬 PRIME 槍機		15
+伯斯頓 PRIME 藍圖	15
+伯斯頓 PRIME 槍管	45
+伯斯頓 PRIME 槍機	15
+伯斯頓 PRIME 槍托	15
+搬運者 PRIME 藍圖	15
+搬運者 PRIME 外殼	15
+搬運者 PRIME 頭部	100
+搬運者 PRIME 系統	15
+雙短柄戰鐮 PRIME 藍圖	15
+雙短柄戰鐮 PRIME 刀刃	100
+雙短柄戰鐮 PRIME 握柄	45
+狼牙 PRIME 藍圖		15
+狼牙 PRIME 刀刃		15
+狼牙 PRIME 握柄		25
+重擊巨錘 PRIME 藍圖	100
+重擊巨錘 PRIME 藍圖 握把	100
+重擊巨錘 PRIME 錘頭	15
+迦倫提恩 PRIME 藍圖	100
+迦倫提恩 PRIME 刀刃	15
+迦倫提恩 PRIME 握柄	45
+喀婆薩 PRIME 庫狛項圈 藍圖	45
+喀婆薩 PRIME 項圈帶	45
+喀婆薩 PRIME 項圈扣	100
+雷克斯 PRIME 藍圖	15
+雷克斯 PRIME 槍管	15
+雷克斯 PRIME 槍機	15
+NEKROS PRIME 藍圖	100
+NEKROS PRIME 機體 藍圖	15
+NEKROS PRIME 頭部神經光元 藍圖	45
+NEKROS PRIME 系統 藍圖	100
+侍刃 PRIME 藍圖		100
+侍刃 PRIME 刀刃		100
+侍刃 PRIME 握柄		100
+ODONATA PRIME 藍圖	45
+ODONATA PRIME 外甲 藍圖	15
+ODONATA PRIME 系統 藍圖	15
+ODONATA PRIME 機翼 藍圖	45
+歐特魯斯 PRIME 藍圖	45
+歐特魯斯 PRIME 刀刃	45
+歐特魯斯 PRIME 握柄	15
+帕里斯 PRIME 藍圖	15
+帕里斯 PRIME 弓身	45
+帕里斯 PRIME 上弓臂	25
+帕里斯 PRIME 下弓臂	15
+帕里斯 PRIME 弓弦	15
+SARYN PRIME 藍圖	100
+SARYN PRIME 機體 藍圖	100
+SARYN PRIME 頭部神經光元 藍圖	45
+SARYN PRIME 系統 藍圖	15
+旋刃飛刀 PRIME 藍圖	15
+旋刃飛刀 PRIME 刀刃	100
+旋刃飛刀 PRIME 鏢帶	100
+猛虎 PRIME 藍圖		100
+猛虎 PRIME 槍托		15
+猛虎 PRIME 槍機		45
+猛虎 PRIME 槍管		45
+TRINITY PRIME 藍圖	45
+TRINITY PRIME 機體	45
+TRINITY PRIME 頭部神經光元	25
+TRINITY PRIME 系統	15
+VAUBAN PRIME 藍圖	100
+VAUBAN PRIME 機體 藍圖	100
+VAUBAN PRIME 頭部神經光元	100
+VAUBAN PRIME 系統 藍圖	100
+守望者 PRIME 藍圖	45
+守望者 PRIME 槍管	15
+守望者 PRIME 槍機	100
+守望者 PRIME 槍托	100
+VOLT PRIME 藍圖		45
+VOLT PRIME 機體		45
+VOLT PRIME 頭部神經光元	45
+VOLT PRIME 系統 藍圖	45

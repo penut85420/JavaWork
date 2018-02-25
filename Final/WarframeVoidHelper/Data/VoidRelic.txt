@@ -1,0 +1,192 @@
+﻿古紀	K1	ODONATA PRIME 外甲 藍圖	高
+古紀	K1	伯斯頓 PRIME 槍托	高
+古紀	K1	狼牙 PRIME 藍圖	高
+古紀	K1	TRINITY PRIME 藍圖	中
+古紀	K1	猛虎 PRIME 槍管	中
+古紀	K1	喀婆薩 PRIME 項圈扣	低
+古紀	S4	FORMA 藍圖	高
+古紀	S4	帕里斯 PRIME 藍圖	高
+古紀	S4	雷克斯 PRIME 藍圖	高
+古紀	S4	TRINITY PRIME 機體 藍圖	中
+古紀	S4	喀婆薩 PRIME 庫狛項圈 藍圖	中
+古紀	S4	SARYN PRIME 藍圖	低
+古紀	S5	伯斯頓 PRIME 槍機	高
+古紀	S5	搬運者 PRIME 外殼	高
+古紀	S5	狼牙 PRIME 刀刃	高
+古紀	S5	迦倫提恩 PRIME 握柄	中
+古紀	S5	野馬雙槍 PRIME 連結器	中
+古紀	S5	旋刃飛刀 PRIME 刀刃	低
+古紀	V1	伯斯頓 PRIME 槍托	高
+古紀	V1	帕里斯 PRIME 上弓臂	高
+古紀	V1	帕里斯 PRIME 下弓臂	高
+古紀	V1	FORMA 藍圖	中
+古紀	V1	VOLT PRIME 系統 藍圖	中
+古紀	V1	重擊巨錘 PRIME 握柄	低
+古紀	V2	帕里斯 PRIME 下弓臂	高
+古紀	V2	狼牙 PRIME 藍圖	高
+古紀	V2	雷克斯 PRIME 槍管	高
+古紀	V2	FORMA 藍圖	中
+古紀	V2	帕里斯 PRIME 上弓臂	中
+古紀	V2	VAUBAN PRIME 系統 藍圖	低
+前紀	C2	西諾斯 PRIME 上弓臂	高
+前紀	C2	迦倫提恩 PRIME 刀刃	高
+前紀	C2	野馬 PRIME 藍圖	高
+前紀	C2	VALKYR PRIME 頭部神經光元 藍圖	中
+前紀	C2	ODONATA PRIME 藍圖	中
+前紀	C2	搬運者 PRIME 頭部	低
+前紀	D1	FORMA 藍圖	高
+前紀	D1	歐特魯斯 PRIME 握柄	高
+前紀	D1	雷克斯 PRIME 藍圖	高
+前紀	D1	FORMA 藍圖	中
+前紀	D1	歐特魯斯 PRIME 刀刃	中
+前紀	D1	雙短柄戰鐮 PRIME 刀刃	低
+前紀	F1	SARYN PRIME 系統 藍圖	高
+前紀	F1	帕里斯 PRIME 下弓臂	高
+前紀	F1	野馬 PRIME 槍機	高
+前紀	F1	NEKROS PRIME 頭部神經光元 藍圖	中
+前紀	F1	雙短柄戰鐮 PRIME 握柄	中
+前紀	F1	重擊巨錘 PRIME 藍圖	低
+前紀	S2	帕里斯 PRIME 弓弦	高
+前紀	S2	迦倫提恩 PRIME 刀刃	高
+前紀	S2	野馬 PRIME 藍圖	高
+前紀	S2	FORMA 藍圖	中
+前紀	S2	帕里斯 PRIME 弓身	中
+前紀	S2	SARYN PRIME 機體 藍圖	低
+前紀	S3	NEKROS PRIME 機體 藍圖	高
+前紀	S3	VALKYR PRINE 藍圖	高
+前紀	S3	野馬雙槍 PRIME 藍圖	高
+前紀	S3	ASH PRIME 藍圖	中
+前紀	S3	FORMA 藍圖	中
+前紀	S3	旋刃飛刀 PRIME 鏢帶	低
+前紀	V1	伯斯頓 PRIME 藍圖	高
+前紀	V1	搬運者 PRIME 藍圖	高
+前紀	V1	旋刃飛刀 PRIME 藍圖	高
+前紀	V1	FORMA 藍圖	中
+前紀	V1	布萊頓 PRIME 藍圖	中
+前紀	V1	守望者 PRIME 槍機	低
+前紀	V3	FORMA 藍圖	高
+前紀	V3	搬運者 PRIME 藍圖	高
+前紀	V3	旋刃飛刀 PRIME 藍圖	高
+前紀	V3	VOLT PRIME 機體 藍圖	中
+前紀	V3	喀婆薩 PRIME 項圈帶	中
+前紀	V3	VALKYR PRIME 系統 藍圖	低
+中紀	A1	FORMA 藍圖	高
+中紀	A1	布萊頓 PRIME 槍管	高
+中紀	A1	搬運者 PRIME 系統	高
+中紀	A1	守望者 PRIME 藍圖	中
+中紀	A1	西諾斯 PRIME 弓弦	中
+中紀	A1	史提托雙槍 PRIME 藍圖	低
+中紀	N3	ODONATA PRIME 系統 藍圖	高
+中紀	N3	帕里斯 PRIME 弓弦	高
+中紀	N3	雷克斯 PRIME 槍管	高
+中紀	N3	ASH PRIME 頭部神經光元 藍圖	中
+中紀	N3	狼牙 PRIME 握柄	中
+中紀	N3	NEKROS PRIME 系統 藍圖	低
+中紀	N4	ASH PRIME 機體 藍圖	高
+中紀	N4	布萊頓 PRIME 槍托	高
+中紀	N4	帕里斯 PRIME 弓弦	高
+中紀	N4	FORMA 藍圖	中
+中紀	N4	凱旋之爪 PRIME 藍圖	中
+中紀	N4	侍刃 PRIME 刀刃	低
+中紀	V2	布萊頓 PRIME 槍托	高
+中紀	V2	狼牙 PRIME 握柄	高
+中紀	V2	迦倫提恩 PRIME 刀刃	高
+中紀	V2	FORMA 藍圖	中
+中紀	V2	迦倫提恩 PRIME 握柄	中
+中紀	V2	VAUBAN PRIME 藍圖	低
+中紀	V3	帕里斯 PRIME 弓弦	高
+中紀	V3	搬運者 PRIME 系統	高
+中紀	V3	迦倫提恩 PRIME 刀刃	高
+中紀	V3	FORMA 藍圖	中
+中紀	V3	猛虎 PRIME 槍機	中
+中紀	V3	VAUBAN PRIME 頭部神經光元 藍圖	低
+中紀	V4	猛虎 PRIME 槍托	高
+中紀	V4	西諾斯 PRIME 弓身	高
+中紀	V4	野馬 PRIME 槍機	高
+中紀	V4	ASH PRIME 頭部神經光元 藍圖	中
+中紀	V4	SARYN PRIME 頭部神經光元 藍圖	中
+中紀	V4	凱旋之爪 PRIME 手套	低
+後紀	A1	TRINITY PRIME 系統 藍圖	高
+後紀	A1	布萊頓 PRIME 槍托	高
+後紀	A1	重擊巨錘 PRIME 錘頭	高
+後紀	A1	史提托雙槍 PRIME 槍管	中
+後紀	A1	雙短柄戰鐮 PRIME 握柄	中
+後紀	A1	侍刃 PRIME 藍圖	低
+後紀	C1	TRINITY PRIME 頭部神經光元 藍圖	高
+後紀	C1	守望者 PRIME 槍管	高
+後紀	C1	雷克斯 PRIME 槍機	高
+後紀	C1	FORMA 藍圖	中
+後紀	C1	歐特魯斯 PRIME 藍圖	中
+後紀	C1	西諾斯 PRIME 下弓臂	低
+後紀	G1	NEKROS PRIME 機體 藍圖	高
+後紀	G1	SARYN PRIME 系統 藍圖	高
+後紀	G1	帕里斯 PRIME 藍圖	高
+後紀	G1	FORMA 藍圖	中
+後紀	G1	喀婆薩 PRIME 庫狛項圈 藍圖	中
+後紀	G1	迦倫提恩 PRIME 藍圖	低
+後紀	N1	FORMA 藍圖	高
+後紀	N1	布萊頓 PRIME 藍圖	高
+後紀	N1	狼牙 PRIME 刀刃	高
+後紀	N1	ODONATA PRIME 機翼 藍圖	中
+後紀	N1	史提托雙槍 PRIME 連結器	中
+後紀	N1	ASH PRIME 系統 藍圖	低
+後紀	N2	搬運者 PRIME 外殼	高
+後紀	N2	野馬 PRIME 藍圖	高
+後紀	N2	雷克斯 PRIME 槍機	高
+後紀	N2	ASH PRIME 頭部神經光元 藍圖	中
+後紀	N2	FORMA 藍圖	中
+後紀	N2	侍刃 PRIME 握柄	低
+後紀	N3	FORMA 藍圖	高
+後紀	N3	帕里斯 PRIME 上弓臂	高
+後紀	N3	雙短柄戰鐮 PRIME 藍圖	高
+後紀	N3	VOLT PRIME 藍圖	中
+後紀	N3	野馬 PRIME 槍管	中
+後紀	N3	NEKROS PRIME 藍圖	低
+後紀	T1	ODONATA PRIME 外甲 藍圖	高
+後紀	T1	SARYN PRIME 系統 藍圖	高
+後紀	T1	守望者 PRIME 槍管	高
+後紀	T1	伯斯頓 PRIME 槍管	中
+後紀	T1	史提托雙槍 PRIME 槍機	中
+後紀	T1	猛虎 PRIME 藍圖	低
+後紀	V1	ODANATA PRIME 系統 藍圖	高
+後紀	V1	搬運者 PRIME 系統	高
+後紀	V1	雙短柄戰鐮 PRIME 藍圖	高
+後紀	V1	FORMA 藍圖	中
+後紀	V1	VOLT PRIME 頭部神經光元 藍圖	中
+後紀	V1	VAUBAN PRIME 機體 藍圖	低
+後紀	V4	ODONATA PRIME 外甲 藍圖	高
+後紀	V4	TRINITY PRIME 系統 藍圖	高
+後紀	V4	帕里斯 PRIME 藍圖	高
+後紀	V4	FORMA 藍圖	中
+後紀	V4	西諾斯 PRIME 藍圖	中
+後紀	V4	守望者 PRIME 槍托	低
+後紀	V5	FORMA 藍圖	高
+後紀	V5	凱旋之爪 PRIME 爪刃	高
+後紀	V5	雙短柄戰鐮 PRIME 藍圖	高
+後紀	V5	布萊頓 PRIME 槍機	中
+後紀	V5	猛虎 PRIME 槍機	中
+後紀	V5	VALKYR PRIME 機體 藍圖	低
+中紀	S5	EMBER PRIME 頭部神經光元 藍圖	高
+中紀	S5	拉特昂 PRIME 槍機	高
+中紀	S5	收割者 PRIME 藍圖	高
+中紀	S5	FROST PRIME 系統 藍圖	中
+中紀	S5	戰刃 PRIME 圓盤	中
+中紀	S5	暗殺者 PRIME 槍機	低
+前紀	F2	EMBER PRIME 機體 藍圖	高
+前紀	F2	拉特昂 PRIME 槍托	高
+前紀	F2	暗殺者 PRIME 槍管	高
+前紀	F2	FORMA 藍圖	中
+前紀	F2	收割者 PRIME 刀刃	中
+前紀	F2	FROST PRIME 藍圖	低
+古紀	G1	FROST PRIME 機體 藍圖	高
+古紀	G1	拉特昂 PRIME 藍圖	高
+古紀	G1	收割者 PRIME 握柄	高
+古紀	G1	EMBER PRIME 系統 藍圖	中
+古紀	G1	FORMA 藍圖	中
+古紀	G1	戰刃 PRIME 藍圖	低
+後紀	E1	FROST PRIME 頭部神經光元 藍圖	高
+後紀	E1	拉特昂 PRIME 槍管	高
+後紀	E1	暗殺者 PRIME 藍圖	高
+後紀	E1	FORMA 藍圖	中
+後紀	E1	戰刃 PRIME 刀刃	中
+後紀	E1	EMBER PRIME 藍圖	低

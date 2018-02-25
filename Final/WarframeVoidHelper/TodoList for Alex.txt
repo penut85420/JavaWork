@@ -1,0 +1,39 @@
+做個星球英文跟中文對應
+
+可以先做關卡搜尋的功能
+搜尋Akkad -> 得到鬩神星 暗區防禦
+
+星球對應英文
+
+水星 Mercury
+金星 Venus
+地球 Earth
+火星 Mars
+火衛一 PHOBOS
+榖神星 CERES
+木星 Jupiter
+歐羅巴 EUROPA
+土星 Saturn
+天王星 Uranus
+海王星 Neptune
+冥王星 Pluto
+鬩神星 ERIS
+賽德娜 SEDNA
+KUVA要塞 KUVA FORTRESS 
+月球 LUA
+遺棄的OROKIN飛船 DERELICT
+虛空 VOID
+
+英文代號對應的關卡種類
+Sur 生存
+Cap 捕獲
+Def 防禦
+Int 攔截
+Spy 間諜
+Exc 挖掘
+DsSur 暗區生存
+DsDef 暗區防禦
+DsExc 暗區挖掘
+Rush Archwing突襲
+Purs Archwing追擊
+ArchInt Archwing攔截

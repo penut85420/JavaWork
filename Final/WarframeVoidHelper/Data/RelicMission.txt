@@ -1,0 +1,142 @@
+﻿MERCURY	
+Apollodorus	Sur
+Elion	Cap
+Lares	Def
+Odin	Int
+Suisei	Spy
+
+VENUS
+Cytherean	Int
+Kiliken	Exc
+Malva	DsSur
+Romula	DsDef
+Tessera	Def
+Unda	Spy
+V Prime	Sur
+Venera	Cap
+
+EARTH
+Cambria	Spy
+Coba	DsDef
+Everest	Exc
+Gaia	Int
+Lith	Def
+Mantle	Cap
+Tikal	DsExc
+
+MARS
+Alator	Int
+Arval	Spy
+Augustus	Exc
+Kadesh	DsDef
+Spear	Def
+Wahiba	DsSur
+
+PHOBOS
+Gulliver	Def
+Kepler	Rush
+Memphis	DsDef
+Shklovsky	Spy
+Stickney	Sur
+Zeugma	DsSur
+
+CERES
+Bode	Spy
+Casta	Def
+Cinxia	Int
+Draco	Sur
+Gabii	DsSur
+Seimeni	DsDef
+
+JUPITER
+Amalthea	Spy
+Ananke	Cap
+Callisto	Int
+Cameria	DsSur
+Elara	Sur
+Io	Def
+Sinai	DsDef
+
+EUROPA
+Abaddon	Cap
+Cholistan	DsExc
+Larzac	DsDef
+Ose	Int
+Paimon	Def
+Valac	Spy
+Valefor	Exc
+
+SATURN
+Caracol	DsDef
+Cassini	Cap
+Dione	Spy
+Helene	Def
+Pandora	Purs
+Piscinas	DsSur
+Rhea	Int
+Titan	Sur
+
+URANUS
+Assur	DsSur
+Caelus	ArchInt
+Desdemona	Cap
+Ophelia	Sur
+Rosalind	Spy
+Stephano	Def
+Umbriel	Int
+Ur	Def
+
+LUA
+Pavlov	Spy
+Stofler	Def
+Tycho	Sur
+
+NEPTUNE
+Despina	Exc
+Galatea	Cap
+Kelashin	DsSur
+Laomedeia	Spy
+Proteus	Def
+Yursa	DsDef
+
+PLUTO
+Cerberus	Int
+Hieracon	DsExc
+Hydra	Cap
+Oceanum	Spy
+Outer Terminus	Def
+Palus	Sur
+Sechura	DsDef
+
+SEDNA
+Amarna	DsSur
+Berehynia	Int
+Hydron	Def
+Kappa	Spy
+Rusalka	Cap
+Sangeru	DsDef
+Selkie	Sur
+
+KUVA FORTRESS
+Tamu	Def
+Taveuni	Sur
+
+ERIS
+Akkad	DsDef
+Isos	Cap
+Kala-azar	Def
+Nimus	Sur
+Xini	Int
+Zabala	DsSur
+
+DERELICT
+OROKIN 遺跡 防禦	Def
+OROKIN 遺跡 生存	Sur
+
+VOID
+Belenus	Def
+Hepit	Cap
+Mithra	Int
+Mot	Sur
+Taranis	Def
+Ukko	Cap

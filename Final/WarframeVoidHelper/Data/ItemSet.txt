@@ -1,0 +1,189 @@
+﻿ASH PRIME
+ASH PRIME 頭部神經光元
+ASH PRIME 機體
+ASH PRIME 系統
+ASH PRIME 藍圖
+
+EMBER PRIME
+EMBER PRIME 頭部神經光元
+EMBER PRIME 機體
+EMBER PRIME 系統
+EMBER PRIME 藍圖
+
+FROST PRIME
+FROST PRIME 頭部神經光元
+FROST PRIME 機體
+FROST PRIME 系統
+FROST PRIME 藍圖
+
+NEKROS PRIME
+NEKROS PRIME 頭部神經光元
+NEKROS PRIME 機體
+NEKROS PRIME 系統
+NEKROS PRIME 藍圖
+
+ODONATA PRIME
+ODONATA PRIME 機翼
+ODONATA PRIME 外甲
+ODONATA PRIME 系統
+ODONATA PRIME 藍圖
+
+SARYN PRIME
+SARYN PRIME 頭部神經光元
+SARYN PRIME 機體
+SARYN PRIME 系統
+SARYN PRIME 藍圖
+
+TRINITR PRIME
+TRINITY PRIME 頭部神經光元 
+TRINITY PRIME 機體
+TRINITY PRIME 系統
+TRINITY PRIME 藍圖
+
+VALKYR PRINE
+VALKYR PRIME 頭部神經光元
+VALKYR PRIME 機體
+VALKYR PRIME 系統
+VALKYR PRIME 藍圖
+
+VAUBAN PRIME
+VAUBAN PRIME 頭部神經光元
+VAUBAN PRIME 機體
+VAUBAN PRIME 系統
+VAUBAN PRIME 藍圖
+
+VOLT PRIME
+VOLT PRIME 頭部神經光元
+VOLT PRIME 機體
+VOLT PRIME 系統
+VOLT PRIME 藍圖
+
+史提托雙槍 PRIME
+史提托雙槍 PRIME 槍管
+史提托雙槍 PRIME 槍機
+史提托雙槍 PRIME 連結器
+史提托雙槍 PRIME 藍圖
+
+布萊頓 PRIME
+布萊頓 PRIME 槍管
+布萊頓 PRIME 槍托
+布萊頓 PRIME 槍機
+布萊頓 PRIME 藍圖
+
+守望者 PRIME
+守望者 PRIME 槍管
+守望者 PRIME 槍托
+守望者 PRIME 槍機
+守望者 PRIME 藍圖
+
+收割者 PRIME
+收割者 PRIME 刀刃
+收割者 PRIME 握柄
+收割者 PRIME 藍圖
+
+西諾斯 PRIME
+西諾斯 PRIME 弓身
+西諾斯 PRIME 上弓臂
+西諾斯 PRIME 下弓臂
+西諾斯 PRIME 弓弦
+西諾斯 PRIME 藍圖
+
+伯斯頓 PRIME
+伯斯頓 PRIME 槍管
+伯斯頓 PRIME 槍托
+伯斯頓 PRIME 槍機
+伯斯頓 PRIME 藍圖
+
+侍刃 PRIME
+侍刃 PRIME 刀刃
+侍刃 PRIME 握柄
+侍刃 PRIME 藍圖
+
+帕里斯 PRIME
+帕里斯 PRIME 弓身
+帕里斯 PRIME 上弓臂
+帕里斯 PRIME 下弓臂
+帕里斯 PRIME 弓弦
+帕里斯 PRIME 藍圖
+
+拉特昂 PRIME
+拉特昂 PRIME 槍管
+拉特昂 PRIME 槍托
+拉特昂 PRIME 槍機
+拉特昂 PRIME 藍圖
+
+迦倫提恩 PRIME
+迦倫提恩 PRIME 刀刃
+迦倫提恩 PRIME 握柄
+迦倫提恩 PRIME 藍圖
+
+重擊巨錘 PRIME
+重擊巨錘 PRIME 錘頭
+重擊巨錘 PRIME 握柄
+重擊巨錘 PRIME 藍圖
+
+狼牙 PRIME
+狼牙 PRIME 刀刃
+狼牙 PRIME 握柄
+狼牙 PRIME 藍圖
+
+旋刃飛刀 PRIME
+旋刃飛刀 PRIME 刀刃
+旋刃飛刀 PRIME 鏢帶
+旋刃飛刀 PRIME 藍圖
+
+猛虎 PRIME
+猛虎 PRIME 槍管
+猛虎 PRIME 槍托
+猛虎 PRIME 槍機
+猛虎 PRIME 藍圖
+
+野馬 PRIME
+野馬 PRIME 槍管
+野馬 PRIME 槍機
+野馬 PRIME 藍圖
+
+野馬雙槍 PRIME
+野馬雙槍 PRIME 連結器
+野馬雙槍 PRIME 藍圖
+
+凱旋之爪 PRIME
+凱旋之爪 PRIME 爪刃
+凱旋之爪 PRIME 手套
+凱旋之爪 PRIME 藍圖
+
+喀婆薩 PRIME
+喀婆薩 PRIME 項圈扣
+喀婆薩 PRIME 項圈帶
+喀婆薩 PRIME 庫狛項圈 藍圖
+
+搬運者 PRIME
+搬運者 PRIME 頭部
+搬運者 PRIME 外殼
+搬運者 PRIME 系統
+搬運者 PRIME 藍圖
+
+暗殺者 PRIME
+暗殺者 PRIME 槍管
+暗殺者 PRIME 槍機
+暗殺者 PRIME 藍圖
+
+雷克斯 PRIME
+雷克斯 PRIME 槍管
+雷克斯 PRIME 槍機
+雷克斯 PRIME 藍圖
+
+歐特魯斯 PRIME
+歐特魯斯 PRIME 刀刃
+歐特魯斯 PRIME 握柄
+歐特魯斯 PRIME 藍圖
+
+戰刃 PRIME
+戰刃 PRIME 刀刃
+戰刃 PRIME 圓盤
+戰刃 PRIME 藍圖
+
+雙短柄戰鐮 PRIME
+雙短柄戰鐮 PRIME 刀刃
+雙短柄戰鐮 PRIME 握柄
+雙短柄戰鐮 PRIME 藍圖
